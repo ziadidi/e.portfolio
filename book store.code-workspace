@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "book store",
+			"path": "..\\book store"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "book store"
+	}
+}
